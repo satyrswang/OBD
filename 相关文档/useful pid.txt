@@ -1,0 +1,47 @@
+useful pid
+
+PIDs supported 
+
+mode1
+Fuel system status
+Calculated engine load
+Engine coolant temperature
+Fuel pressure
+Engine RPM
+Vehicle speed
+Intake air temperature
+Throttle position
+OBD standards this vehicle conforms to
+Run time since engine start
+Engine percent torque data
+Exhaust Gas temperature
+
+
+Mode02
+PID supported[21-40]
+Distance traveled with malfunction indicator lamp (MIL) on
+EGR error
+Evap. System Vapor Pressure
+Absolute Barometric Pressure
+
+PID supported[41-60]
+
+Control module voltage*
+Absolute load value*
+Fuelir commanded equivalence ratio
+Ambient air temperature
+Fuel Type
+Engine oil temperature
+Fuel injection timing*
+Engine fuel rate
+Emission requirements to which vehicle is designed
+
+mode 03
+Request trouble codes
+
+mode 04
+Clear trouble codes / Malfunction indicator lamp (MIL) /Check engine light
+
+mode 09
+Mode 9 supported PIDs (01 to 20)
+Vehicle Identification Number (VIN)
